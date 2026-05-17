@@ -77,9 +77,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    ```bash
    git clone https://github.com/Mouniiira/DataScience-assessment.git
    ```
-2. Place your raw dataset file in the project directory.
-3. Download the dataset file
+2. Download the dataset file
 https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code
+3. Place your raw dataset file in the project directory.
 4. Launch Jupyter Notebook and run all cells in the project notebook.
 
 ---
