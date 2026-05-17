@@ -75,7 +75,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ### Execution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mouniiira/DataSciene-assessment.git
+   git clone https://github.com/Mouniiira/DataScience-assessment.git
    ```
 2. Place your raw dataset file in the project directory.
 3. Download the dataset file
